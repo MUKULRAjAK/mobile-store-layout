@@ -1,0 +1,298 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wrapper {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.hero-banner {
+  background-color: #E67C37;
+}
+
+.hero-banner .herobanner-cta {
+  display: flex;
+}
+
+.hero-banner .herobanner-cta .content {
+  align-content: center;
+  width: 40%;
+  color: #fff;
+}
+
+.herobanner-cta .samsung-img .samsung {
+  height: 100%;
+  align-content: flex-end;
+  width: 100%;
+}
+
+.herobanner-cta .content h1 {
+  font-size: 100px;
+  font-weight: 600;
+}
+
+.herobanner-cta .content .app-play-store {
+  width: 110px;
+  height: 40px;
+  background-color: #1D2228;
+  margin: 40px 10px 0px 10px;
+}
+
+.aroundme {
+  background-color: #292A33;
+  padding-bottom: 130px;
+}
+
+.aroundme .everything-you .iphone6s_img {
+  width: 49%;
+  display: inline-block;
+  background-color: #292D33;
+}
+
+.everything-you .iphone6s_img .iphone6s {
+  margin-top: -120px;
+}
+
+.aroundme .everything-you .everything-you-container {
+  width: 49%;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+.aroundme .everything-you .everything-you-container h5 {
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+.aroundme .everything-you .everything-you-container h2 {
+  margin-top: 30px;
+  font-size: 40px;
+}
+
+.aroundme .everything-you .everything-you-container p {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.aroundme .everything-you .everything-you-container button {
+  margin-top: 30px;
+  height: 40px;
+  width: 135px;
+  background-color: #E67C37;
+}
+
+.aroundme-now {
+  background-color: #292D33;
+}
+
+.aroundme-now .aroundme-content .july {
+  color: white;
+  width: 29%;
+  font-size: 16px;
+  display: inline-block;
+  padding-top: 40px;
+  padding-right: 20px;
+}
+
+.aroundme-content .july h4 {
+  font-size: 20px;
+}
+
+.aroundme-content .july h2 {
+  margin-top: 20px;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.aroundme-content .july p {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.aroundme-content .july .read {
+  background-color: #E67C37;
+  height: 50px;
+  width: 130px;
+  margin-top: 40px;
+}
+
+.aroundme-now .aroundme-content .river-img {
+  width: 70%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.aroundme-content .river-img .river {
+  margin-top: -20px;
+  width: 110%;
+}
+
+.testing {
+  background-color: #292A33;
+}
+
+.testing .testing-content .testing-out {
+  width: 70%;
+  display: inline-block;
+  background-image: url(image6.jpeg);
+  vertical-align: top;
+  padding: 80px 50px 90px 50px;
+  margin-left: -75px;
+  margin-top: -5px;
+  background-size: cover;
+}
+
+.testing .testing-content .testing-out h4 {
+  font-size: 35px;
+  max-width: 65%;
+}
+
+.testing .testing-content .testing-out p {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.testing .testing-content .image-four {
+  width: 15%;
+  display: inline-block;
+}
+
+.testing-content .image-four .iphone-four {
+  margin-top: -100px;
+  margin-left: -200px;
+  height: 300%;
+  width: 300%;
+}
+
+.adds-video {
+  background-color: #E67C37;
+  padding: 50px 0px 0px 0px;
+}
+
+.add-video-content .adds-video-chat h4 {
+  font-size: 35px;
+  text-align: center;
+}
+
+.add-video-content .adds-video-chat p {
+  font-size: 20px;
+  text-align: center;
+  margin: 30px 0px 30px 0px;
+}
+
+.add-video-content .alliphone .allthreeiphone {
+  height: 100%;
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* image  gallery */
+.image-container {
+  background-color: #292A33;
+}
+
+.image-container .image-gallery-container .image-gallery {
+  display: flex;
+}
+
+.image-gallery .image1 img {
+  height: 315px;
+  width: 555px;
+  margin: 20px 30px 30px 50px;
+}
+
+.image-gallery .image2 img {
+  height: 255px;
+  width: 495px;
+  margin: 90px 0px 0px 5px;
+}
+
+.image-gallery2 {
+  display: flex;
+}
+
+.image-gallery2 .image3 img {
+  height: 224px;
+  width: 312px;
+  margin: 0px 50px 0px 125px;
+}
+
+.image-gallery2 .image4 img {
+  height: 281px;
+  width: 360px;
+  margin: 0px 0px 0px -15px;
+}
+
+.image-gallery2 .image5 img {
+  height: 250px;
+  width: 390px;
+  margin: 0px 0px 0px 30px;
+}
+
+.image-gallery-container .How-much-does {
+  background-color: rgba(41, 42, 51, 0.9);
+  display: inline-block;
+  margin: -700px 0px 00px 370px;
+  height: 300px;
+  width: 550px;
+  vertical-align: middle;
+  opacity: 0.7;
+  padding: 100px 0px 0px 0px;
+}
+
+.image-gallery-container .How-much-does h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.image-gallery-container .How-much-does p {
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: #333333;
+  height: 100px;
+  color: #fff;
+
+}
+
+.footer-content {
+  padding-top: 25px;
+  margin: auto 0;
+
+}
+
+.footer-content a {
+  color: #F3C599;
+
+}
+
+.footer-content a {
+  color: #F3C599;
+
+}
+
+.footer-content p {
+  text-align: center;
+
+}
